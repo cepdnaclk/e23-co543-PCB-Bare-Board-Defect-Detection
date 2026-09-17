@@ -17,7 +17,7 @@ title: MicroInspect — Bare-Board PCB Defect Detection
 - **E/23/035**, P.I.N. Bandara, [email](mailto:e23035@eng.pdn.ac.lk)
 - **E/23/117**, W.R.A.D.N. Gunathilake, [email](mailto:e23117@eng.pdn.ac.lk)
 
-![MicroInspect](./data/cover_page.jpg)
+![MicroInspect](./data/cover_page.png)
 
 ---
 
